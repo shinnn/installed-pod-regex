@@ -1,0 +1,37 @@
+{
+  "name": "installed-pod-regex",
+  "version": "1.0.0",
+  "description": "Create a regex that matches the newly installed Pod list generated with CocoaPods installation commands",
+  "keywords": [
+    "cocoapods",
+    "pod",
+    "pods",
+    "version",
+    "install",
+    "installed",
+    "installing",
+    "update",
+    "list",
+    "regex",
+    "regexp",
+    "match",
+    "detect"
+  ],
+  "main": "browser.js",
+  "moduleType": "globals",
+  "homepage": "https://github.com/shinnn/installed-pod-regex",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/installed-pod-regex.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "node_modules"
+  ]
+}
